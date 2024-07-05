@@ -1,0 +1,55 @@
+.EDIYA {
+  background-color: #2a47bf;
+  color: white;
+  width: 440px;
+  border-radius: 10px;
+  font-weight: 500;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  font-size: 18px;
+  text-align: center;
+  margin: 10px;
+}
+
+.kakao {
+  background-color: #fee500;
+  color: black;
+  width: 440px;
+  border-radius: 10px;
+  font-weight: 700;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  font-size: 18px;
+  text-align: center;
+  margin: 10px;
+}
+
+.naver {
+  background-color: #03c75a;
+  color: white;
+  width: 440px;
+  border-radius: 10px;
+  font-weight: 700;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  font-size: 18px;
+  text-align: center;
+  margin: 10px;
+}
+
+.starbucks {
+  background-color: #006633;
+  color: white;
+  width: 500px;
+  border-radius: 5px;
+  font-weight: 500;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 24px;
+  text-align: center;
+  margin: 10px;
+}
+
+.m {
+  margin: 10px;
+}
