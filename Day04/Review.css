@@ -1,0 +1,59 @@
+.sale {
+  background-color: red;
+  color: white;
+  width: fit-content;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.dream {
+  background-color: rgb(248, 109, 190);
+  color: white;
+  width: fit-content;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.factory {
+  background-color: rgb(20, 0, 130);
+  color: white;
+  width: 150px;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  border: 1px solid red;
+}
+.center {
+  background-color: rgb(20, 0, 130);
+  color: white;
+  width: 150px;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  border: 1px solid red;
+}
+.dreamshop {
+  color: rgb(162, 245, 39);
+  background-color: rgb(0, 102, 0);
+  width: 130px;
+  text-align: center;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  margin-bottom: 5px;
+}
+.dreamdotshop {
+  width: 130px;
+  text-align: center;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  border: 1px solid black;
+}
