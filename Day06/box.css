@@ -1,0 +1,25 @@
+.box {
+  width: 500px;
+  height: 500px;
+  border: 1px solid rgb(173, 136, 173);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.coral {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 173, 106);
+}
+.skyblue {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(175, 223, 223);
+}
+.palevioletred {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(236, 113, 113);
+}
