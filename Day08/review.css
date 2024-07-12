@@ -1,0 +1,45 @@
+
+
+.box {
+  width: 260px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(235, 235, 235);
+  margin: 5px;
+}
+.image {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 25px;
+  transition: all 0.3s;
+}
+
+.image:hover {
+  transform: scale(1.05) rotate(20deg);
+}
+
+.image > img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.all {
+  display: flex;
+  flex-direction: row;
+}
+.yogert {
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: gray;
+}
+.gift {
+  background-color: darkblue;
+  width: fit-content;
+  padding: 4px;
+  color: white;
+  font-size: 10px;
+}
