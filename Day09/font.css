@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Diphylleia&family=Gowun+Batang&display=swap");
+
+@font-face {
+  font-family: "Cafe24Moyamoya-Regular-v1.0";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/Cafe24Moyamoya-Regular-v1.0.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  width: 100vw;
+  height: 300vh;
+  background-color: skyblue;
+}
+
+.menu {
+  padding: 20px;
+  border: 3px solid pink;
+  width: fit-content;
+  font-size: 30px;
+  position: fixed;
+  right: 0px;
+}
+
+.lunch {
+  font-family: "Gowun Batang", serif;
+}
+
+.dinner {
+  font-family: "Diphylleia", serif;
+}
+
+.breakfast {
+  font-family: "Cafe24Moyamoya-Regular-v1.0";
+}

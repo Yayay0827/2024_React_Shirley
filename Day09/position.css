@@ -1,0 +1,45 @@
+.palette {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.one {
+  background-image: url("ocean.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.two {
+  background-color: #028391;
+}
+.three {
+  background-color: #f6dcac;
+}
+.four {
+  background-color: #feae6f;
+}
+.five {
+  background-color: #102c57;
+}
+.six {
+  background-color: #1679ab;
+}
+.seven {
+  background-color: #ffb1b1;
+}
+.eight {
+  background-color: #ffcbcb;
+}
+.nine {
+  background-color: #ffe4cb;
+}
